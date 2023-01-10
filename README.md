@@ -9,7 +9,13 @@ Introduction slides: ADD LINK HERE
 
 ## Session 1 (45 minutes): 
 - Setup of google colab to run the workshop material
-- Explore the papyrus dataset that will be used in the workshop
+    1. Open notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auwalsoe/encode_nlp_workshop_2023/blob/main/notebooks/session_1_data_exploration.ipynb)
+    2. Click connect in upper right corner
+    3. Log in to google account
+    4. Click "Copy to Drive" in upper left corner. The notebook will then be copied to you google drive.
+    5. Click "Connect" in upper right corner to connect to a computing instance.
+
+- Exploration of the papyrus dataset that will be used in the workshop
 - Use python and jupyter notebooks to explore and preprocess the data, for example by cleaning, filtering and transforming the data.
 - Show how to use various python libraries, such as pandas, for working with the text data
 - Hands-on excercise: Cleaning and filtering of dataset
