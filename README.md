@@ -8,32 +8,36 @@ Introduction slides: ADD LINK HERE
 
 
 ## Session 1 (45 minutes): 
-- Setup of google colab to run the workshop material
+- Introduction to machine learning and NLP: LINK TO SLIDES HERE
+- Setup of google colab to run the workshop material (15 minutes)
     1. Open notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auwalsoe/encode_nlp_workshop_2023/blob/main/notebooks/session_1_data_exploration.ipynb)
     2. Click connect in upper right corner
     3. Log in to google account
     4. Click "Copy to Drive" in upper left corner. The notebook will then be copied to you google drive.
     5. Click "Connect" in upper right corner to connect to a computing instance.
+- Download dataset and install libraries
 
-- Exploration of the papyrus dataset that will be used in the workshop
-- Use python and jupyter notebooks to explore and preprocess the data, for example by cleaning, filtering and transforming the data.
-- Show how to use various python libraries, such as pandas, for working with the text data
-- Hands-on excercise: Cleaning and filtering of dataset
+## Session 2 Data Exploration and introduction to NLP techniques (45 minutes)
+- 1 Data exploration
+    1. Basic data exploration and filtering with Pandas
+    2. Application of filtering techniques based on data exploration findings
+    3. Hands-on-exercise: Data exploration and filtering
+- 2 Introduction to nlp techniques
+    1. Lower text
+    2. Tokenization
+    3. Stopword removal
+    4. Vectorization (count and tf-idf)
+    5. Hands-on exercise: Apply NLP techniques to papyrus dataset
+## Session 3 Building a text classification model(45 minutes)
+- Building text classification model
+    1. Choose what to classify and which input data to use
+    2. Split data into training and test
+    3. Transform/vectorize data
+    4. Training a logistic regression model
+    5. Test and evaluate metrics
+    6. Deploy model with Gradio
+    7. Hands-on exercise: Build and train your own classification model
+- Wrap-up
+- Resources for learning more. 
 
-Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auwalsoe/encode_nlp_workshop_2023/blob/main/notebooks/session_1_data_exploration.ipynb)
-
-## Session 2 (45 minutes)
-- Introduce the basics of natural language processing, such as tokenization, stemming, stopword removal.
-- Show how these techniques can be applied to natural language processing data using libraries like NLTK.
-- Hands-on excercise: Apply NLP techniques to dataset.
-
-## Session 3 (45 minutes)
-- Introduction to basic machine learning techniques such as supervised and unsupervised learning.
-- Show how to build a text classification model with our dataset, using sci-kit learn and pandas.
-- Hands-on exercise: Build and train your own classification model using the papyrus dataset.
-- Wrap up: Recap of main points and key takeaways from the workshop
-- Q&A
-
-
-BONUS: How to deploy your application using Gradio.
  
