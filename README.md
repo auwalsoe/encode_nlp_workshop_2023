@@ -10,7 +10,7 @@ Introduction slides: ADD LINK HERE
 ## Session 1 (45 minutes): 
 - Introduction to machine learning and NLP: LINK TO SLIDES HERE
 - Setup of google colab to run the workshop material (15 minutes)
-    1. Open notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auwalsoe/encode_nlp_workshop_2023/blob/main/notebooks/session_1_data_exploration.ipynb)
+    1. Open notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auwalsoe/encode_nlp_workshop_2023/blob/main/notebooks/encode_nlp_workshop_2023.ipynb)
     2. Click connect in upper right corner
     3. Log in to google account
     4. Click "Copy to Drive" in upper left corner. The notebook will then be copied to you google drive.
