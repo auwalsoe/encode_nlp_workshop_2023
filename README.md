@@ -3,10 +3,6 @@
 
 
 ## Agenda
-Introduction slides: ADD LINK HERE
-
-
-
 ## Session 1 (45 minutes): 
 - Introduction to machine learning and NLP: [Slides](https://docs.google.com/presentation/d/1X0_je0GlZ3zY-RoXupB7glBsiyycfC_xAHq26fvgASc/edit?usp=sharing)
 - Setup of google colab to run the workshop material (15 minutes)
