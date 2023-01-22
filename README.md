@@ -8,7 +8,7 @@ Introduction slides: ADD LINK HERE
 
 
 ## Session 1 (45 minutes): 
-- Introduction to machine learning and NLP: LINK TO SLIDES HERE
+- Introduction to machine learning and NLP: [Slides](https://docs.google.com/presentation/d/1X0_je0GlZ3zY-RoXupB7glBsiyycfC_xAHq26fvgASc/edit?usp=sharing)
 - Setup of google colab to run the workshop material (15 minutes)
     1. Open notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auwalsoe/encode_nlp_workshop_2023/blob/main/notebooks/encode_nlp_workshop_2023.ipynb)
     2. Click connect in upper right corner
@@ -27,7 +27,7 @@ Introduction slides: ADD LINK HERE
     2. Tokenization
     3. Stopword removal
     4. Vectorization (count and tf-idf)
-    5. Hands-on exercise: Apply NLP techniques to papyrus dataset
+    5. Hands-on exercise: Apply NLP techniques to papyrus dataset (optional)
 ## Session 3 Building a text classification model(45 minutes)
 - Building text classification model
     1. Choose what to classify and which input data to use
@@ -36,7 +36,7 @@ Introduction slides: ADD LINK HERE
     4. Training a logistic regression model
     5. Test and evaluate metrics
     6. Deploy model with Gradio
-    7. Hands-on exercise: Build and train your own classification model
+    7. Hands-on exercise: Reflect on possible usecases for these techniques
 - Wrap-up
 - Resources for learning more. 
 
